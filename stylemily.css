@@ -1,0 +1,48 @@
+.menu-item{
+    display: flex;
+    font-family: Neue Arial, Helvetica, sans-serif;
+}
+   image
+   bac
+ 
+.item-1 {
+    margin-left: 100px;
+    text-align: center;
+    position: relative;
+}
+.item-2{
+    margin-left: 100px;
+    text-align: left;
+  
+}
+.item-3{
+    margin-left: 100px;
+}
+.item-1 p{
+    display: inline;
+}
+.img{
+    display: block;
+    margin-left: 150px;
+    margin-right: 150px;
+}
+  h1{
+     position: absolute
+     margin top -20px;
+}
+
+
+.menu-item {
+    display: flex;
+    flex-wrap: wrap;
+    width: 100%;
+
+}
+.box {
+    box-sizing: border-box;
+    padding: 1rem;
+    margin: 1rem;
+    background-color: silver;
+    width: calc((100% / 3) - 2rem); /* calco para descontar a margem da largura do box se aumenta a marge tem que ajustar aqui tb */
+}
+

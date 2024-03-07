@@ -1,0 +1,31 @@
+.menu-item{
+    display: flex;
+    font-family: Neue Arial, Helvetica, sans-serif;
+    flex-wrap: wrap;
+    
+}
+.item-1{
+    margin-left: 100px;
+}
+.item-2{
+    margin-left: 100px;
+}
+.item-3{
+    margin-left: 100px;
+}
+.item-4{
+    margin-left: 100px;
+}
+.item-5{
+    margin-left: 100px;
+}
+.item-6{
+    margin-left: 100px;
+}
+.item-1 p{
+    display: inline;
+}
+.img{
+    display: block;
+    text-align: center;
+}

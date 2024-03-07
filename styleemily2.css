@@ -1,0 +1,49 @@
+.menu-item{
+    display: flex;
+    font-family: Neue Arial, Helvetica, sans-serif;
+}
+
+.menu-item2{
+    display: flex;
+    font-family: Neue Arial, Helvetica, sans-serif;
+    flex-flow: row wrap;
+}
+
+.menu-item3{
+    display: flex;
+    font-family: Neue Arial, Helvetica, sans-serif;
+    flex-flow: row wrap;
+    justify-content: space-between;
+}
+
+.item-1{
+    margin-left: 100px;
+}
+.item-2{
+    margin-left: 100px;
+}
+.item-3{
+    margin-left: 100px;
+}
+.item-4{
+    margin-left: 100px;
+}
+
+.item-5{
+    margin-left: 100px;
+}
+
+.item-8{
+    margin-left: 100px;
+}
+.item-1 p{
+    display: inline;
+}
+.img{
+    display: block;
+    margin-left: 150px;
+    margin-right: 150px;
+}
+body {
+    text-align: left;
+}
